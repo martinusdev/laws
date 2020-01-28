@@ -79,7 +79,9 @@ Výsledkom je bug, ktorý sa deje iba 1 hodinu denne, keď nikto nepracuje, a ne
 
 ## Ako pracovať s dátumami, ktoré nemajú timezone?
 
-Napríklad narodeniny alebo účtovníctvo?
+- Účtovníctvo: `AccountingDate`
+
+Ostatné?
 
 🤷‍♂️
 
