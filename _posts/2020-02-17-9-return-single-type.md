@@ -1,5 +1,9 @@
-# 9 - Všetky návratové hodnoty funkcie majú rovnaký typ
-
+---
+layout: post
+title:  "# 09 - Všetky návratové hodnoty funkcie majú rovnaký typ"
+date:   2020-02-17 14:15:50 +0100
+categories: [Tech]
+---
 Funkcie a metódy nesmú vracať viacero rôznych dátových typov.
 Všetky možné návratové hodnoty každej funkcie musia mať 1 rovnaký typ.
 

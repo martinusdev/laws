@@ -1,5 +1,9 @@
-# 6 - Time, Date a FrozenDate sú zakázané, vždy používať iba FrozenTime
-
+---
+layout: post
+title:  "# 06 - Time, Date a FrozenDate sú zakázané, vždy používať iba FrozenTime"
+date:   2020-02-17 14:15:50 +0100
+categories: [Tech > PHP > CakePHP]
+---
 `Time`, `Date` a `FrozenDate` sú zakázané. Vždy treba používať iba FrozenTime. Pretože:
 * `Time` a `Date` sú mutable,
 * `FrozenDate` a `Date` nepodporujú timezone-y a zároveň majú niektoré metódy, ktoré na timezone závisia (napr. `isToday()`), je to Chronos bug.

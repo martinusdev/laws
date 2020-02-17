@@ -1,5 +1,9 @@
-# Stav meniace HTTP služby sa nesmú dať spustiť cez GET metódu
-
+---
+layout: post
+title:  "# 07 Stav meniace HTTP služby sa nesmú dať spustiť cez GET metódu"
+date:   2020-02-17 14:15:50 +0100
+categories: [Tech > HTTP]
+---
 Zmena stavu je vykonanie nejakej trvalej zmeny/operácie. Štandardne tam patrí pridanie, editácia alebo zmazanie nejakého "resource".
 
 HTTP služby spravené cez GET metódu by nemali robiť žiadne zo stav meniacich operácií, kvôli:

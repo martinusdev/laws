@@ -1,5 +1,9 @@
-# 10 - Každý argument funkcie akceptuje iba hodnoty jedného typu
-
+---
+layout: post
+title:  "# 10 - Každý argument funkcie akceptuje iba hodnoty jedného typu"
+date:   2020-02-17 14:15:50 +0100
+categories: [Tech]
+---
 Každý argument funkcie alebo metódy musí mať definovaný iba 1 typ.
 Funkcie/metódy teda nesmú pre 1 argument akceptovať hodnoty rôznych dátových typov (2 a viac rôznych dátových typov).
 

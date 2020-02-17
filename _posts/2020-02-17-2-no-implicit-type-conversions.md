@@ -1,5 +1,9 @@
-# 2 - Nepoužívať implicitné typové konverzie
-
+---
+layout: post
+title:  "# 02 - Nepoužívať implicitné typové konverzie"
+date:   2020-02-17 14:15:50 +0100
+categories: [Tech > PHP]
+---
 Implicitné typové konverzie sú niekedy zvláštne. A aj keď sa objektívne dajú vysvetliť, málokto v nich má prehľad a nikto si na všetky prípady nedáva pozor.
 
 Jeden príklad za všetky:
