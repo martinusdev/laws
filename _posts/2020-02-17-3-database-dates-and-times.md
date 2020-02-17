@@ -1,4 +1,9 @@
-# 3 - Na ukladanie časov a dátumov do DB používame typ TIMESTAMP alebo typ DATETIME s hodnotami v UTC
+---
+layout: post
+title:  "# 03 - Na ukladanie časov a dátumov do DB používame typ TIMESTAMP alebo typ DATETIME s hodnotami v UTC"
+date:   2020-02-17 14:15:50 +0100
+categories: [Apps]
+---
 
 Existujú len 2 možnosti ako správne ukladať do databázy dátumy a časy:
 1. `TIMESTAMP` - lebo MySQL/MariaDB interne ukladajú hodnotu nezávislú na timezone (TODO ako?),

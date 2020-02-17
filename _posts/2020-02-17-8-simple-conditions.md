@@ -1,4 +1,9 @@
-# 8 - Podmienky musia byť napísané jednoducho
+---
+layout: post
+title:  "# 08 - Podmienky musia byť napísané jednoducho"
+date:   2020-02-17 14:15:50 +0100
+categories: [Apps]
+---
 
 Pod podmienkami sa myslia všetky *boolean expressions*. Komplikované podmienky sa ťažko čítajú, ťažko chápu a sú náchylné na chyby.
 

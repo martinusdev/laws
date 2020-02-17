@@ -1,5 +1,9 @@
-# 4 - Náhodné identifikátory majú minimálne 22 znakov v 64 znakovej abecede
-
+---
+layout: post
+title:  "# 04 - Náhodné identifikátory majú minimálne 22 znakov v 64 znakovej abecede"
+date:   2020-02-17 14:15:50 +0100
+categories: [Apps]
+---
 128 bitové náhodné číslo (inými slovami 128 bitov entropite) je dosť na to, aby sa nedali nikdy<sup>1</sup> vyskúsať všetky možnosti.
 
 To vychádza na 22 znakov v 64 znakovej abecede. Lebo 64 znakov je 6 bitov (2^6 = 64). 6 bitov * 22 znakov = 132 náhodných bitov (na porovnanie, 6 bitov * 21 znakov je iba 126 bitov). 
