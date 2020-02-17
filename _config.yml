@@ -28,7 +28,7 @@ github_username:  martinusdev
 
 # Build settings
 theme: minima
-permalink: /:categories/wow/:title:output_ext
+permalink: /:categories/:title:output_ext
 plugins:
   - jekyll-feed
 
